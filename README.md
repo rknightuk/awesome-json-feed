@@ -10,9 +10,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Feed Generators
 
-- [vallieres/jekyll-json-feed](https://github.com/vallieres/jekyll-json-feed) - JSON Feed for Jekyll
+- [vallieres/jekyll-json-feed](https://github.com/vallieres/jekyll-json-feed) - Jekyll Plugin
 - [Getting JSON Feed in Jekyll](https://frippz.se/2017/05/18/getting-json-feed-in-jekyll/) - No plugin solution to generate a JSON feed in Jekyll
-- [rmlewisuk/hexo-generator-json-feed-org](https://github.com/rmlewisuk/hexo-generator-json-feed-org) - JSON feed for Hexo
+- [rmlewisuk/hexo-generator-json-feed-org](https://github.com/rmlewisuk/hexo-generator-json-feed-org) - Plugin for Hexo
 
 ## Parsers and Readers
 
