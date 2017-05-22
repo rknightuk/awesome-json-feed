@@ -18,6 +18,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [totocaster/JSONFeed](https://github.com/totocaster/JSONFeed) - Swift parser for JSON Feed
 - [JSON Feed Viewer](https://json-feed-viewer.herokuapp.com/) - Online JSON feed reader
+- [feed2json.org](https://feed2json.org/) - automatic conversion of RSS/Atom to JSON
 
 ## Misc
 
