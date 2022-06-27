@@ -21,7 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [feed2json.org](https://feed2json.org/) - automatic conversion of RSS/Atom to JSON
 
 ## Misc
-
+- [RSS API](https://rssapi.net/) - Subscribe to JSON feeds (and RSS feeds) via API
 
 ## Contribute
 
